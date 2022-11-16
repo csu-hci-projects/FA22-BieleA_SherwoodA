@@ -1,0 +1,2119 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "CD2B01ED531CE4C68A1892DABE2A6131F535DBC8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B2A7F335FC62A023E1D59DE2ADBD3C72F13800",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "211087F62EFBB7C1BE4972E660D86BC3FFBFC5C0",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EACFA4020082090A51165F6F8F385B9C8ABCC6B2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B75365FD1D472D9BDDB570FDE8960C5F56236FF0",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "580BAEC620B37DE8A1FE8FC479D667FE85792074",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6118C2EF81328E746F6736EACA89ADF8A3761CC6",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "84E02F5928102B7C930E738C991C08D607470873",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "DC662FADED5C77B6D4456A8A78B04DCC16D274EC",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Blueprints/Barrel/Barrel2",
+				"/Game/Blueprints/Barrel2",
+				"/Game/Blueprints/Pupil_001",
+				"/Game/Blueprints/Material_013",
+				"/Game/Blueprints/Material_004",
+				"/Game/Blueprints/Material_003",
+				"/Game/Blueprints/Material_002",
+				"/Game/Blueprints/Material_001",
+				"/Game/Blueprints/Group56181Mat",
+				"/Game/Blueprints/Eye_001",
+				"/Game/Blueprints/Blue_Eyelids_001",
+				"/Game/Blueprints/barrel"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "FCE2CED4B4383CCA20898D9823FDBB412D840AA6",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain"
+			]
+		},
+		{
+			"ShaderMapHash": "EBDE1AD57834C08EC59C83E8590AB963F218489F",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "F7B3830A090DA8C3432B275D1EAAD409B50E6D74",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A00B748BDA40B3F60FEFF59F05E123A9A20C741D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "11AB4D18B6E4F96C0476760488FEDC57F8D9E3F7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall",
+				"/Game/Blueprints/HamsterBall/Cheese"
+			]
+		},
+		{
+			"ShaderMapHash": "4ACDBD0F1D60ABCF41278F6774070BF706DE94D2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "025CA632F741E0A60C5152EFB0BEB2D30B23662D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "D4E626D71DCA8D5A7D6B957A59DC97A950CA1A5F",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "A583EAD8CCEE3C8094B2B46535089EE2DE8CE545",
+			"Assets": [
+				"/Game/FPWeapon/Materials/BaseMaterial",
+				"/Engine/TemplateResources/M_Template_Master",
+				"/Game/DemoRoom/Materials/M_ReflectionDemo_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "F6FEE972B3FA082540A7097D6BEFF54E13E06434",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1FEA24B0BAB83471C42DA06A6FB16DB962DF754A",
+			"Assets": [
+				"/Engine/EngineMeshes/BackgroundMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0622AD53A7D9B87F95C09C6842877223CD49067C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorViewMode_GreenOnly"
+			]
+		},
+		{
+			"ShaderMapHash": "E1EB2A0676C4FB3FA8F7134C181F3E915B844673",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "F914811D70EAFB1C0CA6E3B7934F22B6C603A1DF",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "C834772CAB04C51B2C46A5C3F21BA074FB512D4D",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "9CCBF56CDD8E0AD8CC31A8435C88D743B98E9ED1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "51C7B05DD3F62879F54D0D1972E720772888456B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1F40DFD96D8AE3D0F8486C03725DDC2EEC53AD0",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "A6AA03CB707A2A35E6B21885A08ED26D847E4CE1",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F7320558CE9DC41A98DA5650B6417B4547F658A0",
+			"Assets": [
+				"/Engine/EditorMaterials/Cloth/CameraLitDoubleSided"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AF16EAE246BA83B1682CDD4B227C22D79297F912",
+			"Assets": [
+				"/Engine/VREditor/LaserPointer/LaserPointerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B155BF25ABE1B5D74C1CCF6398D60B69E8E7C0A",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7E49B2C7E4F45A769712E5F5D597423E50A31090",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7895F3B3EC85C81839B53617DEF4F1A94DA828",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8C73641D32B7DA2DEF6B40664D0A99BA9A0CD673",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A91267099E00CB6E114581FBC960569A39E5CE2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9D534C6446F78712DC1F240E8C2483D55B3763B3",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveTexturedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CE9731DBD31520A0F28233FD6C531B40ED2E593",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "25505245776F29D612F7A2A47DF00B8F08CF6DFD",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "C2E563CA72CD446FE90EEB20A5E098A2B5C3CDC8",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "23C0634056BA763099D33CA946813D0DC0E1C720",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "AE522F7BF62721652D513F04CD5AD98FE0E65800",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "A8EE93289F5303899CFC370F090082786C8DECD9",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "91964FE23D33910AE7B338C225B2294783B0500A",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "81FCE478ACAF1C47903CCEE90DA8B2502F837953",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "EA545E534E61838B0334C9B51E1198AD8A40AFD5",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "802899A30A5A1215C355E73544EC9FA189117DB5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "243BD626314AB5DB3B08E098E668FC1047D9154E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "0AE098AF113B2C4480A6F46A128FB83680C11985",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "C0E6F9F82E10AEFE312A2538A4D28FA6B3E4727E",
+			"Assets": [
+				"/Game/ExampleContent/Blueprints/Materials/M_Spotlight_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "3CA1DD74512095A2001B013A50D95E09F2091F72",
+			"Assets": [
+				"/Game/ExampleContent/Blueprints/Materials/M_Pickup_Health"
+			]
+		},
+		{
+			"ShaderMapHash": "723879FB7E9A1A60A3691FE2458CF393F0AFC6FC",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeCoals_Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "CA2F9D41F952A79D47300CB2D203ABC967A19BD9",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky_moving"
+			]
+		},
+		{
+			"ShaderMapHash": "EE5C40E47255291C23D59406CC6D9E2F07E11648",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky_Moving"
+			]
+		},
+		{
+			"ShaderMapHash": "195840C1AF82D84909FC525475CD3CFE96484F1D",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GroundCrack_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "9161975922FDC0ED47B789AE9664D037B41823B8",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealBeam_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "F76921DE591F3AE2FF2CA77A0498FA018FEED54E",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBeam_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "66A85D5615B485902E5D942D7692F6824914FC0E",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastFog"
+			]
+		},
+		{
+			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A583E5F9F9E78C40859F062E7ECBF9E25AE03C5C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec",
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "1489C8FF5D2C82409B570823EE8381441739BD59",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Skill_Vortex_Fire_01"
+			]
+		},
+		{
+			"ShaderMapHash": "648B34FBF1A6265873DAA2FDE756E9E90165B27A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "08AB2FB6F0B0D7F55EC432ED817F96CBDE053FE7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "365ADFFBD38BA017B8E0296963110ACF2DE1BB47",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Noise_Beam_01_IN_2"
+			]
+		},
+		{
+			"ShaderMapHash": "D9818B27E6142524007FA1E45DAAFB7395A27A21",
+			"Assets": [
+				"/Game/ExampleContent/Blueprints/Materials/M_Orange_Shiny"
+			]
+		},
+		{
+			"ShaderMapHash": "7B9B364B6611B4174271C215F157D9F6E590BDF1",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "3B2B19FA5414E6DAD9643AF0062E6F480FA16D8E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "29C64B2FCF7D80889A787B48F8602C5CDC4F807B",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "419EE9E96F6EFD06A21D0F8BA7433C8F5C9FDF70",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "C8DE9C47980E3A1640D326FDAF76E90A15D1C57B",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST"
+			]
+		},
+		{
+			"ShaderMapHash": "82FA1B69661E3A54D3C1A73DB12FD906CAA494AB",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02",
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "55F1F25E971DBAD1AC1F5311A16C1B5987907E2A",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_02",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_02_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceHammerGlow",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_Inst",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_Add_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_2_2_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_03",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SparkCore_Add_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Outer_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Shield_Rim_Add",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlashHalf_Add_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Inner_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleFlame",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A0520267CDB35C1620C3AF8148A8E012F24D97D8",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Mesh03"
+			]
+		},
+		{
+			"ShaderMapHash": "9C7FD62D9A3199A714CFD0105BC7EAA88CAE6F74",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_Surface"
+			]
+		},
+		{
+			"ShaderMapHash": "D0735230355EB0952FB82AEB9B84A7B8189E18CD",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_AuraCircle_02_INST"
+			]
+		},
+		{
+			"ShaderMapHash": "6EE5F859FC87AE6DC632C11FC69DF94793033FF3",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Noise_Beam_01_INST"
+			]
+		},
+		{
+			"ShaderMapHash": "37AAC45256B6C77755B78DBF257FB329D26212CC",
+			"Assets": [
+				"/Game/Rolling/Materials/M_Blue_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "76F7B60E37A451ADB0F02F3C83A120B7656BFF41",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided"
+			]
+		},
+		{
+			"ShaderMapHash": "7DFA13B60A5BE6BCC63C173EE1B3655513E247B0",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Ribbon_Pan_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "E1517D80B819E0FB42B486DAD553F1DEA4C55137",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit_01"
+			]
+		},
+		{
+			"ShaderMapHash": "079860666223D4E6EB787860F8364B952562577F",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_2sided_meshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "F351F65E905019748A20CE510E801F1A44074664",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Opaque_Axes_Spin",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "D2CD0588FE97A16A9C0C644CE998896F8F5C8BEF",
+			"Assets": [
+				"/Game/DemoRoom/Materials/M_DemoWall"
+			]
+		},
+		{
+			"ShaderMapHash": "D79BD57CEC28FCE0A8384ECEC1CCA28F18AA6386",
+			"Assets": [
+				"/Game/Blueprints/HamsterBall/TransparentBall"
+			]
+		},
+		{
+			"ShaderMapHash": "CDBBFF9619CDA2D8D1BE419185421FB1412C8F13",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Add",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_2_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Add_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_subUV_mult",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Add",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Addit_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Impact_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "19350454790CBA93AC4E7081EFB63DB8406B3857",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSkills_Base",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Trans_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_4_8_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke2_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3_MeshEmit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_3_4_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Gradient_Pan",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRock_Trans_MeshEmit_Lit"
+			]
+		},
+		{
+			"ShaderMapHash": "3AC2A202424FD68FBF0C762C176705EA81BB52D5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastBase",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Lit_SubUV_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "8EE3BC97B91F123A13853B2923B98AA0B90782AE",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/OLD/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "EF69839CF834BA80D43294F8A199C035835EAF46",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "91F3223290D8F6329AA9F628705F450785CC8A70",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "CFE5E5CEFA9C52655B847484E1203266500866DA",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "EB69E43D87DDCE7E3FB42AA8FDAB6AC7A0CA2136",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_02_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_03",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_02",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IB_Blood_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_Emissive_02",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Splat_03_INST",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeFail_X",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_03_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "D53261151316570137111B7EE70B336D9A472E3A",
+			"Assets": [
+				"/Game/Blueprints/Tube"
+			]
+		},
+		{
+			"ShaderMapHash": "0CD382EA936B00C3FE06DCC8F6BD98B56DE6518D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "EB018F0D07E70CCC6DB507FF4E564B8535858387",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "8C8AB04CDF198AD7F65A8D06ABD895BA65F4B51C",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Arc_Add_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "E0BF8982DB0983ABA0F9090072D73CA1C09A7708",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Radial_add_subuv_4x4",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Bolt_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightCone",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_RingsubUV",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Sprite_01_5x5_SubUV",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV_2",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Edge",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Base",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "F16B6B07519C2EB711BD89FC8A0307A3AFACBCBF",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "50873F6277E501954377AA7E857DA3874251110E",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "7F8276EA8B88BDFF1DB9C1C20F6547821BE819A5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "74B9FC4BCBA2593D728D21E6C3A75ADD6DC91A93",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "1AAF0F74AE0AB53BCD6F98EE0BA9EE4BEB6B4A0B",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Fire_03",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add_Ice_T3"
+			]
+		},
+		{
+			"ShaderMapHash": "2973C24D954CD84E12D518E6BE4E77626CD70901",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "F954630918C46022A3FC3A9A285EB8CBB032DFED",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "300095D1B26F25DF57DF377B54FBB9CC441FAE09",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Unlit_EndGate"
+			]
+		},
+		{
+			"ShaderMapHash": "78EC29A80D57050195A94E14696B7C0B925D1EC6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "589D8FB0FD5B3C0319091EC879BE5A4E1532F833",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "93DB5568224CDC3EB1E5A8E573AF154831A9DCFE",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeTile_Trail_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C738793306076EB2F2783F1D5D6A6C9C3AD099E0",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Green_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Orng_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "327EC1E8CD8BAB3E640FB4F937E72A83D8810CB7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "9C3608F218BDCCB265E21E05933790946232A947",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "FF297D1DC6BAC7F9F61088D93BFCD7243DD50335",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "16E99AC38A459EC7A42BD38DFBA9D92515341259",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Pan"
+			]
+		},
+		{
+			"ShaderMapHash": "7A0DABE4BBF115A39FB5EB61AFA563D19E452271",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "7D30811094FB9072F5B2486495B571EC72BC5F3F",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "0068F996E288CF91C3D2ABEC00A92BE798E149C0",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "15963AC19863B27E8A700E95BABE5D522133ABAF",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "047E2E1E49B7D723E1BFF6E8D0DF4D3F2A304875",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "3F676132EE83A2AF2CD88A32B5FF8737C5C06F73",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "48B18E0D4075A0594CED0CDF7978EC07AC154311",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_YinYang_Circle"
+			]
+		},
+		{
+			"ShaderMapHash": "8B080840B894CBAC85E2613C90309BBF312A3F93",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "94A59C60C3F2B4183CDC37428033DD7BF4861548",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Top"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFDED41BEC619FC7E5912E1D2B583E3DD534B15",
+			"Assets": [
+				"/Game/Blueprints/humster",
+				"/Game/Blueprints/glass"
+			]
+		},
+		{
+			"ShaderMapHash": "516C779B7BBA919E4B994C8BA645CAB63485E8F8",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "171643A662E7B75C6CB93AB5CB44AEE62A829442",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BladeSwipe04"
+			]
+		},
+		{
+			"ShaderMapHash": "961910A498C2FA0C0DA325C6401273F02C9649B5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Bats_Trans_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "FE6E12A236F528F7E5EBB5D548A999B7020A2A46",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "466DBCC6F819D7BFC7A53701C3DE49C087D41376",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "F41D53DE474A4D6ACF10DD8D111C689D3C72E253",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "9810ADA8D596C3F0449163FF3E641B708F40775A",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning_Master",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning"
+			]
+		},
+		{
+			"ShaderMapHash": "E484C48936BBFB78E220F48F9B9AA792B59E338A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "BA26633295EC8420D2A1680C2063BC7ED2F523EB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "7C4082D79A706802414864E913AD5C55DE6CF8F3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "3FD458DB1AC61ABBB3596065D3087BC15FCEE681",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "5A09AA1E52C31935ED3507FA537A79FF670007B6",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_FlickerGlow_Forge"
+			]
+		},
+		{
+			"ShaderMapHash": "F80EE21F25BA81C2E7113B21026FC79AE639526A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "811D70A1232E69E894834E5F9D474A469570D90C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "B786E273101DF9209C26D79BEBB74C41CAD0DEBF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "AE4D46015EC93476EFF8F655B1858C4B3BE35160",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A8E9D397EA937753F410F78003D826A72A4EB6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "8A86DB7E0991C84A42947E0EC9AEAD1462A41A6B",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Telecharge_char_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2FC07ED00C23F054D77C58595FC11F951DF447E8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "70DA5F414F773C4F40D7BEA8E91E9429B859C07C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "8616030F5E34C5C65151A0B30C4786128A447EC7",
+			"Assets": [
+				"/Game/Blueprints/floor1"
+			]
+		},
+		{
+			"ShaderMapHash": "7A6305F303291C00EA039DFE6EBD7F2444FB1872",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "BBBB19CDB0F23FA73B5DB8E3FDBB5394432F529C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "353F8343C75365B1AEA9B3DEB07474D9F9A5C25C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "1055930AF871AB20050BB4146B694052081A6E85",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "0AD597FCFF9758BCD0CCA7A7394CC59806BEC1F7",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "F5B975C37D89B5A26993E38D7E2F910209AD2836",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSword",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_RoboChains_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "88699199B19ADDC62DB676E2E3DAA28AB6D03766",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceTrap_Shard"
+			]
+		},
+		{
+			"ShaderMapHash": "BAAA0BAB0D18674C64AA279AE5E36985C9F46DB5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_D"
+			]
+		},
+		{
+			"ShaderMapHash": "9BCA5EF0DC9E1273B70FCBEE5AFCF8C406D70CE3",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Maps/LevelContent/Architecture/M_1Meter_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E4CB4381ED68A40C54AAB6F85DCAAFD343AF6210",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastIcicles"
+			]
+		},
+		{
+			"ShaderMapHash": "331D524F796DB093AC48AF30EE0E883FBE91B1AE",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastIcicles_Fade"
+			]
+		},
+		{
+			"ShaderMapHash": "DD7B16C06CA144248875649865C2E2200580163F",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_FloorStone"
+			]
+		},
+		{
+			"ShaderMapHash": "5FE31CA235DD92A53B2851AEEA058D51E12AF0C6",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "49D0E76140F9338347684386EC3A36F16076FAB4",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceChunksBase"
+			]
+		},
+		{
+			"ShaderMapHash": "6D438485BD7C58111F1F07FAC20ADCE89328B29A",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightSconces_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "A162139B658099DA6EAB8DB3A78E74681A476606",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Plate_Floor_2_Ice"
+			]
+		},
+		{
+			"ShaderMapHash": "F01508F83719D2B80A614EFA145A1819F83CDDDB",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeachBeam_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "286A761C8EA1CBD6F078E2940625A83FE835362A",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "30DFEB00EE7D78E55E391048A62F84A52F02670D",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_Add_2Sided_Emissive_MESH"
+			]
+		},
+		{
+			"ShaderMapHash": "345C06940936450A7F515593182C5A2E2FE21A58",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Heal_Add_2Sided"
+			]
+		},
+		{
+			"ShaderMapHash": "96222BFA318BF050DCA128B387F62740CE34E603",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_2sided",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeLogo",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_2sided",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SlashDir_Add_01_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "8DFB26E5D014E75D690B6306354A6972DEF41303",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Environments/Misc/Env_ALL_Artifacts/Materials/M_Env_Health_Terminus"
+			]
+		},
+		{
+			"ShaderMapHash": "E185A19DE20E16CA49A55498C69E9A154C2F1C57",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "52E881BE4629C842370BCE401912E76C1996E6BA",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_Mesh_Unlit_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B2831A925E01235511F5A8396AA7CE49A9F8F787",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealSpiral_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "84CFBBA832C70DEC3C8DC97C5CDCAE4FA05D1735",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder"
+			]
+		},
+		{
+			"ShaderMapHash": "FCF48B467FF90476B4EA9DB1D9791BD4BFF1F7A2",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_2Sided"
+			]
+		},
+		{
+			"ShaderMapHash": "D4A5FB138BDDEEA896E9E1134B35624A530096C1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "529FCAB17A413B2F2E4FDE93CB311DD0EB5AF8EE",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/OLD/Effects/FX_Materials/ICE/M_IceMountain_Boulder_MeshEmit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceMountain_Boulder_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "45CCAFAB6BA61486F3D35D6211E1CCE51AC9FAC8",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Blue_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "1E20D11BCF446BE439452A9FA69F0BD92E43B92A",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle"
+			]
+		},
+		{
+			"ShaderMapHash": "B802EDF8FF00D2887EE7D0CD892F8D193E186AF3",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "302E65E4D9B5F90BA9693573086DF914B9BFACDA",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE80C7FCA163DA1F833B307CD8ABBBFBFE96F26",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle_add"
+			]
+		},
+		{
+			"ShaderMapHash": "4EC3B14DE7BD05F21F16826F4DF029D5927C48E0",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Tile_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "34436784F271272392CB8EC47D40B169DC5023DF",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFire_MeshEmit_Master",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRock_MeshEmit_Lit"
+			]
+		},
+		{
+			"ShaderMapHash": "10ACCB0DC977E8754DF18BEB7D55B2F5B7D2C4BB",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5856BEB590F32CDFBC9247F7644087C610C5FD5F",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceSkills_Base_Lit"
+			]
+		},
+		{
+			"ShaderMapHash": "FFB87B4E071202FC3DB2882A024E3CA8020D0144",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ReflectArrow_Grad"
+			]
+		},
+		{
+			"ShaderMapHash": "0B6AF89748873305631ACE9CF61E131CC225C649",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spider_Anim"
+			]
+		},
+		{
+			"ShaderMapHash": "C04BE8E5735832D647E5E5D2678BFC1F5726E432",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "42F7FC2099ADF974E1A7E50AF5E176DDC7ACD8F7",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "40D80879DFFDAF8D3144971F2837DDB2140DF728",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_Blue",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "9FE16C4A9DAB323B70BD4473CD7A00D96D57708E",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_cracks_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ExploD_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundIce_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundPoison_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "EEE046C991CC909C3547DF53A3C6D35CFDBB4140",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Lightning_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E2FCCF05E1F53F6DF370163022D405C3B1017311",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "B9FA93CB78C3198A82D486EEDA6ECC97900FF6D9",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "890EF1B93B5F99B10B0FA662C295B1D8639DDE49",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_StaticMesh_Lit_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "57B918DCEEACD75E433214A6B920AD8611AD608F",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "CD7B46E3B098C7DCD64300645066FE84B3AF89E4",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_DepthFade"
+			]
+		},
+		{
+			"ShaderMapHash": "5056B328F250E7A91F52F209DA9FBFED84C46336",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FogSheet_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_Bucket_Cin04",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlobShadow_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C8CD23478D04940F2A184F5481F2B29D4E8E32E6",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireWall_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "C9F9E78195A2346B8BB5D27BCFBD5E3172441FA5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "6FB890141E28BE2ABE08884F79B94E82C2281B79",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "F2BAD59CFA8965E2779AB525E3691189F8E8A41E",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp",
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "DDDA0067F91D310FB02ED2D1DEC5E2B2749A0B9D",
+			"Assets": [
+				"/Engine/Engine_MI_Shaders/M_Shader_SimpleTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "540C8A0C4CA85DC98FAE9CAC02B473CF818B068D",
+			"Assets": [
+				"/Engine/EditorResources/FieldNodes/_Resources/M_FieldRadiusPreview"
+			]
+		},
+		{
+			"ShaderMapHash": "7830344196274F6218701F14D6CEE5699E61844D",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Opaque_Hammer_Spin"
+			]
+		},
+		{
+			"ShaderMapHash": "E171CFA61F0313D35C414F4721E393617AAFB691",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "14CC31EF34BEE66179FCF777D126490DD5DFA5DD",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "7EB80B268E411CC7FEFCB8D7153A743BD65315E5",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "FC3CE7483869CF26A63033E1C6991E2FD77B1169",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/BoneWeightMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Blueprints/tr_flag"
+			]
+		},
+		{
+			"ShaderMapHash": "77CDB0FBD820F7CE9355DEA339489DEC2B2876A5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_DetailMask_2sided"
+			]
+		},
+		{
+			"ShaderMapHash": "3F39F07756916AC1D55F7F605DE823305782F9C2",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_Pan_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "72DEF4ED867AA1FD982C293ED2A34BEA7FD40BF1",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_VertexAnim_2sided"
+			]
+		},
+		{
+			"ShaderMapHash": "6BB796A6A85DA28BAECFC43E33CFF855727913F2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "3E514AA091D8634F04473F817E50C00ED7B2D3C3",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_02_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "1438009BDF757D2F27DBCB49BB07EBB934EEF548",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX/M_Embers"
+			]
+		},
+		{
+			"ShaderMapHash": "7349758A5D0C3164D5A33746B21622F3E2C4320E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "14E2AC9F3332320731D2E0D9EE52F5013D730ACB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "CC55EA1DC806B30DD6AE1628892C72F7943F02A8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "6B4DF1C8666102946C3942099A0BCFCD7FA4FB49",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "457EC0B92FD6A9246B0BD5771C8575318E692746",
+			"Assets": [
+				"/Game/Blueprints/Barrel/Barrel_M"
+			]
+		},
+		{
+			"ShaderMapHash": "EB7E519ABFF1FFAF6CC7359DE26B425713E22BAE",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX/M_BloomPlane"
+			]
+		},
+		{
+			"ShaderMapHash": "2E259F780777C58F63F76801AC52137752D87296",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "B131430BC994A41D2E44FA2F90C66F9CCB384BC3",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_2Sided"
+			]
+		},
+		{
+			"ShaderMapHash": "37B94DC71D67C16A174E6D53610F3563F078DD9F",
+			"Assets": [
+				"/Game/FirstPersonArms/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "BFB3594707BA22E069770F414FC9F5D306B4EBC2",
+			"Assets": [
+				"/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B11C924E0C6AA249F881BF33A957F25F4B91294D",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "49A3B18030C83BC6FF9CDD88D3060C2F76187505",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_2Sided_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "754C31949D0EEA4512E24A41EC4B03810916BAA6",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastDir_Add_01_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "20F9ABA1DA5628598B0D3DF700298B37B2E6FCBB",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSword_Add_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "A4BC68FD09117FF3AB2195917967FAEE2F9A41D6",
+			"Assets": [
+				"/Game/ExampleContent/Blueprints/Materials/M_Pickup_Cupcake"
+			]
+		},
+		{
+			"ShaderMapHash": "1C0579806EDE3DDDCFF80C42DD442D9D549EB397",
+			"Assets": [
+				"/Game/ExampleContent/Blueprints/Materials/M_Pickup_Coin"
+			]
+		},
+		{
+			"ShaderMapHash": "2A7B579AF26139DF23AD3CAD742D8DF407B9B407",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Maps/LevelContent/Architecture/M_CycRoom_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2992C27D7E670533ED08E198E22FD7248B7E7F30",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX/M_FogPlane02"
+			]
+		},
+		{
+			"ShaderMapHash": "2A97322B2CC9C7A60CB1D8850DB5FD9C65D1A753",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_2Sided_Pan_Mask_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "497433C74854618E25610BC08C767D5633A33603",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_Static_Lit_Emis_PanMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "60B138E82651200D3EE1685B157A93E3B1033B4E",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lava_Flowing"
+			]
+		},
+		{
+			"ShaderMapHash": "3C2B8EFA8FBAC0DBA2A00B15E58DF1137E171FA4",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow_2sided"
+			]
+		},
+		{
+			"ShaderMapHash": "351DEEB9084F8A497C72BCA8AEBC4B9105985F94",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flash_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "062031B2634D7F875D63C6AAF82DEEBA30224A19",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFireBase_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "8056D0676C1AC86D280D84E518929D628F6332C0",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_JaggedRockFire_MeshEmit_Lit"
+			]
+		},
+		{
+			"ShaderMapHash": "461E7916088C5397EA153CF4BE313AAA0C475946",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX/M_FogPlane03_add"
+			]
+		},
+		{
+			"ShaderMapHash": "B9AD60DF853B26394425B71BFC71BB9BF86DD85E",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "DF9D203352CE4CB64B3FF3C73BE3033CEB310919",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Trans_TilePan_2sided_meshEmit_02"
+			]
+		},
+		{
+			"ShaderMapHash": "33B794943BFC6E94AB4C63A1A5604DC7D5F48726",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlowingLava_HOT_red_Cool"
+			]
+		},
+		{
+			"ShaderMapHash": "0F83D51BF5E2E62EDAD7EC5EDBCF80C690E974AB",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Lit_Emis_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "0CB59EC8EF3CFA8E30B044010A685E63477BEDF8",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5A32237F7E4626CEEB115577E0DFDB7D2BD681F4",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Emis_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "2838DFE75356567C9A331F8B4180A03AEB8989B7",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master_DepthFade"
+			]
+		},
+		{
+			"ShaderMapHash": "3BFF2D1A65FD7F849BDA30799285830A60ACDB72",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceShard"
+			]
+		},
+		{
+			"ShaderMapHash": "280E1CFA4F586EE5D4C9A0177DE86D1185FF9862",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_EdgeFade"
+			]
+		},
+		{
+			"ShaderMapHash": "FD4FB60109AFF2556AB6D778AF382DAC531C1D10",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2sided"
+			]
+		},
+		{
+			"ShaderMapHash": "7474DE51828DEF3D148A6846446648630047180D",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "AE5A3736DBF10BA74F931DAA303C6142CE3AB6E1",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX/M_FogPlane01"
+			]
+		},
+		{
+			"ShaderMapHash": "840AA083BCD900CCFF7C730065A70A69398BCEEC",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Maps/LevelContent/Architecture/M_CycWall_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A458A725206692FC8477939DBB4EF59A0E569A89",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Add"
+			]
+		},
+		{
+			"ShaderMapHash": "D399D5E796CEF9D9C9D30FFA90BC27270920A8B4",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Mobile/ICE/M_Tornado_Ice_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "0301138F55ED9A05EB46F1BBCECE8A4431019721",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX/M_FogPlane03"
+			]
+		},
+		{
+			"ShaderMapHash": "E371DCCF69DA10BB9BE577B6E44CDFB5B16165D2",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SpikeTrap_Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "4083F1F9FA0F62C479120DC3EB9B225BB9AAC1A5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Pan_Emis_Mask_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "D7EE5376E421B85429EF7CB1B63E38A3F21EB4B9",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "1185FA77AE3FE5820801A22CAECFE7D8E591E0B9",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade"
+			]
+		},
+		{
+			"ShaderMapHash": "F7833D860C2CC7F8C737D17336DF5B676C65C688",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_2Side_01"
+			]
+		},
+		{
+			"ShaderMapHash": "62FC78B302BEC548AB9EB07565182EC1E8AAACC7",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire"
+			]
+		},
+		{
+			"ShaderMapHash": "5CDE220D2FED368C1F746655729587396B9FA0CC",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "BF7A415B190F15BFE2A478E6DF1A4DB666B40670",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface2"
+			]
+		},
+		{
+			"ShaderMapHash": "4078FD2DCE3DA8E3F476C3CA584B97813D4AAFB8",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Ice_Trans_UT"
+			]
+		},
+		{
+			"ShaderMapHash": "BA038B6483EC8932FE65AAFEC76954FE0E32F1CA",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares_Grid"
+			]
+		},
+		{
+			"ShaderMapHash": "A583F22D504B8277DE8E586AAA8DDEB4F7FF59E5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado"
+			]
+		},
+		{
+			"ShaderMapHash": "D78DB99080A3FECB089EC733125543B015479E77",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade"
+			]
+		},
+		{
+			"ShaderMapHash": "14BF58444769A8F4BB2287836CC3FC7C6B3FD997",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "52D10E39076F7FC689E83C4F0A0570A7548FBEF6",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_02"
+			]
+		},
+		{
+			"ShaderMapHash": "49D7D3484075784165A1590E86060D88824523ED",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_TraceTrail_Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "2C780569FB93174F8C8F25896D32FD42005CF01F",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "447BDE91BCCA56C736768D4EBF9074CB310C379F",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_2sided"
+			]
+		},
+		{
+			"ShaderMapHash": "793BFA1A07F308993134EE3146C04A3A4B3C4B5B",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_IB_SwipeTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "7F24A91715D5529FD4A8A1872F1DF346176975BF",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_2side_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "BF2A5954FFD1BCF4680FA68E6A3E4D7E0EBE3475",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_fountain_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1E992F36119FE89C94AA9CE320563FB6FCE61EF5",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/M_GoldBag"
+			]
+		},
+		{
+			"ShaderMapHash": "D57DAFE8477054F960C90A089C607B17222C56A7",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeafFlip_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "74571A61C4472DE3B1184A2C35DD981E49814465",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Lit"
+			]
+		},
+		{
+			"ShaderMapHash": "212AFFC9AD8FAB3B1E6AFAE9FF61B2CBB29165E7",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_03"
+			]
+		},
+		{
+			"ShaderMapHash": "D8A79032456BE9B5EF4075B73678391526C92C7C",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GhostSkull",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "8C475E56CA8712A7B59A216F252F13F4D01275A3",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sword_Opaque_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "A9D211A16F5CF396DA3260B66DF7F8C385F3F0D3",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ShieldMesh_mobile"
+			]
+		},
+		{
+			"ShaderMapHash": "DF3F8A601B5D4920FE672805FDFAB54579C5E89C",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "BA1D8E23A6E211A4A7ED3ECA95E5BD95C2898B5C",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Targeting_Enemy"
+			]
+		},
+		{
+			"ShaderMapHash": "12F8CDA28FEE5705D625E11170E2B25BEF582180",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Env/M_Treasure_Gold_Add_2sided"
+			]
+		},
+		{
+			"ShaderMapHash": "62C8CE3B1A719B5F3D1E21F582595CE642C52790",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "D6826C24D44CFCE4D7A73D2FEB65897BD396DE39",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LevelRing_00"
+			]
+		},
+		{
+			"ShaderMapHash": "305ED08B76821001FBF088F03CD49AC9B8A7C0DB",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ChargeMesh_mobile1"
+			]
+		},
+		{
+			"ShaderMapHash": "B4DCDFAFB2E6C51303E9CDB8BE0F9E6B019CFD2F",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Misc/M_DeathPlane_01"
+			]
+		},
+		{
+			"ShaderMapHash": "0D3C7EADAFD726F3D5C55700849DAD42E31F853A",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Impact_IB_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "96B069392E997A147CC1CE97465C8B62A07A769C",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_2_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Masked_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "B191FB1AB31091DCB8DD843D2180E407103AF4AB",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glowing_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "46937D7DF40158FE17FDF2A2ED378FA94FC518F2",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Ausar_ShieldBlast_01"
+			]
+		},
+		{
+			"ShaderMapHash": "34D01A16945F6CC70876CEF06844E0AAE8233071",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface"
+			]
+		},
+		{
+			"ShaderMapHash": "8AB7336A10798B422F3AE9A65B551A85F08519E1",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2Sided_meshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "2A96DC1B63BA064A6CDEB7DD40C372FE789398E1",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "EF269819ABF88D4EFB8B3FEB5ACEB2585CC40491",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Environments/Env_Rocks/Materials/M_JaggedRock_01"
+			]
+		},
+		{
+			"ShaderMapHash": "33A32C5CEE4BE46D936DC40C47B67D0C8CDE1669",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed_Trim",
+				"/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed"
+			]
+		},
+		{
+			"ShaderMapHash": "7AF940F6A988E61E4F181A092042CFE55D7D60C6",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "1C07600541651C1477F34ABB5943644D721FEDF9",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_Master_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "97ACBCA848B5650168095A900336A0D2631125D7",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Enemy_GreaterSpiderBoss_FX_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "A345AEF39CEDC534B028044A9DF8ECF37E504637",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_Survival_CA_Chicken_02"
+			]
+		},
+		{
+			"ShaderMapHash": "146F10CBB1FAA2A394A50725FFB89138C2C5B5F9",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_EnemyChicken"
+			]
+		},
+		{
+			"ShaderMapHash": "C9B5815F2ED26650CB7886BFA0CE0BDADB100BF0",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "ABD1550BC5A94D5278B6F67B2303F0CC90C1C010",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "43BEB3164206F8F74B5002B15183D5EC0C6F8D75",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "3FFE9C3EFB36D5E1686A3FD89DEB4E4FFBE7B2EE",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Emis_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "1197F6C809D7EB9D891EE25363327FAF9C197526",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Base_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "605271216266BAAA72CAE1CAC1C084CE3F8989CA",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "09F9BC61A7E56FC0575D8DF82CF5C18B833CE9AB",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Trail_MeshEmit_2Sided_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "8F644A655262E618701C6EA992CB5447767CC4A0",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Environments/Fire/Env_Fire_Magma/Materials/M_Lava_flows_trans"
+			]
+		},
+		{
+			"ShaderMapHash": "76150251F7247FF0FE91BF57CD4D256D8F415960",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans_2sided"
+			]
+		},
+		{
+			"ShaderMapHash": "B0C3A8848ECE822CCF7607FA499D1460F2593644",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "6D8AF98E411F45D527B46A28E8CE336A07235CE2",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Fast_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "28674B1FBCE2C9A5AAC5F2A1F23BE576A9F44F99",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Dungeon_Pipe_FlowingLava_Cool"
+			]
+		}
+	]
+}
